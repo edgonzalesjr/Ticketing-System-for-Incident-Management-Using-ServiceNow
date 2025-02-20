@@ -31,11 +31,17 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/ISzYjO2.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<b>We will assess one high alert and review the details.</b>
 <br/>
-<b>We will assess one high alert. Review the details. Reach out to the employee to gather as much information as possible. Begin examining the logs concurrently to uncover any relevant details. If necessary, isolate the laptop from the network. Check the system detection on the EDR (Endpoint Detection and Response) solution. Start remediating the threat. Block the suspicious website that the user visited. Verify if any other websites are involved. Review the firewall logs for any suspicious outbound connections from the machine. Check the Windows Event logs to determine if the user's account has been compromised.</b>
+
+<p align="center">
+<img src="https://imgur.com/CLwG7oc.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/zfdmrwl.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>On the right hand side, click the Analysis option and Start Task. Reach out to the employee to gather as much information as possible.</b>
 <br/>
 
 <p align="center">
