@@ -37,13 +37,13 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 <img src="https://imgur.com/lsuh5n5.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>We will assess one high alert, review the details, contact the affected user, and remotely access the user's machine to begin analyzing the incident. On the user's device, we will gather all important information, ask the user what occurred, and identify the Indicators of Compromise, such as any malicious parent and child processes running, as well as outbound and inbound network connections.</b>
+<b>We will assess one high alert, review the details, Reach out to the employee to gather as much information as possible. Begin examining the logs concurrently to uncover any relevant details. If necessary, isolate the laptop from the network. Check the system detection on the EDR (Endpoint Detection and Response) solution. Start remediating the threat. Block the suspicious website that the user visited. Verify if any other websites are involved. Review the firewall logs for any suspicious outbound connections from the machine. Check the Windows Event logs to determine if the user's account has been compromised.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>After conducting a thorough investigation of the findings, document the case and close the ticket.</b>
 <br/>
 
 <p align="center">
