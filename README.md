@@ -55,7 +55,7 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <p align="center">
 <img src="https://imgur.com/UxEOv7q.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>On the Investigation tab, Search the Mail Server to see if other users was affected of the same phishing email.</b>
+<b>On the Investigation tab, Search the Mail Server to see if other users was affected of the same phishing campaign.</b>
 <br/>
 
 <p align="center">
@@ -63,7 +63,7 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 <img src="https://imgur.com/ahvqPps.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Throughout the Containment step, we might need to perform some sort of orchestration with a third-party integration we have. Examine the logs to find relevant details and, if needed, isolate the laptop from the network. Check the Endpoint Detection and Response (EDR) system for threats, block the suspicious website visited by the user, and verify any other involved websites. Review firewall logs for suspicious outbound connections and check Windows Event logs for potential account compromise.</b>
+<b>Throughout the Containment step, we might need to perform some sort of orchestration with a third-party integration. Examine the logs to find relevant details and, if needed, isolate the machine from the network. Check the Endpoint Detection and Response (EDR) system for threats, block the suspicious website visited by the user, and verify any other involved websites. Review firewall logs for suspicious outbound connections and check Windows Event logs for potential account compromise.</b>
 <br/>
 
 <p align="center">
