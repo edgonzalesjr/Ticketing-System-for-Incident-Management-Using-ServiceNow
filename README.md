@@ -13,9 +13,9 @@ To gain practical experience with the ServiceNow ticketing system while managing
 ## Practical Exercises
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/gOFatHK.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>Security Analyst Login..</b>
 <br/>
 
 <p align="center">
@@ -85,7 +85,7 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 
 ## Outcome
-- Utilized the ServiceNow ticketing system to manage and resolve security incidents, optimizing workflows and incident response within a SOC environment.
+- Utilized the ServiceNow ticketing system to manage and resolve security incidents, optimizing workflows and incident response.
 - Learned incident creation, prioritization, and remediation, contributing to more efficient operations, improved team collaboration, and enhanced overall security posture.
 - Tracked incident progress, generated insightful reports, and applied continuous process improvements, resulting in faster resolution times and a more streamlined incident management process.  
 - Made the organization's security setup stronger by making incident management and response more effective.
