@@ -23,6 +23,8 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 <img src="https://imgur.com/hbIRojw.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
+<img src="https://imgur.com/7PeoRX5.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
 <b>On the Dashboard, Check for open tickets.</b>
 <br/>
 
@@ -37,7 +39,7 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 <img src="https://imgur.com/lsuh5n5.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>We will assess one high alert, review the details, Reach out to the employee to gather as much information as possible. Begin examining the logs concurrently to uncover any relevant details. If necessary, isolate the laptop from the network. Check the system detection on the EDR (Endpoint Detection and Response) solution. Start remediating the threat. Block the suspicious website that the user visited. Verify if any other websites are involved. Review the firewall logs for any suspicious outbound connections from the machine. Check the Windows Event logs to determine if the user's account has been compromised.</b>
+<b>We will assess one high alert. Review the details. Reach out to the employee to gather as much information as possible. Begin examining the logs concurrently to uncover any relevant details. If necessary, isolate the laptop from the network. Check the system detection on the EDR (Endpoint Detection and Response) solution. Start remediating the threat. Block the suspicious website that the user visited. Verify if any other websites are involved. Review the firewall logs for any suspicious outbound connections from the machine. Check the Windows Event logs to determine if the user's account has been compromised.</b>
 <br/>
 
 <p align="center">
