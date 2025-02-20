@@ -71,6 +71,8 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 <img src="https://imgur.com/haBqY7R.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
+<img src="https://imgur.com/8cVoDgQ.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
 <b>After conducting a thorough investigation of the findings, document the case and close the ticket.</b>
 <br/>
 
