@@ -49,49 +49,29 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 <img src="https://imgur.com/3ezBMVj.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>On the Explore tab, click Observables, the URL was identified as Malicious by WhoisGuard Registrant.</b>
+<b>On the Explore tab, click Observables, the URL was identified by the Domain lookups that there are malicious indicators in the reported phishing email.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/UxEOv7q.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<b>.</b>
+<b>On the Investigation tab, Search the Mail Server to see if other users was affected of the same phishing email.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/9Rh0Vxx.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/ahvqPps.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<b>.</b>
+<b>Throughout the Containment step, we might need to perform some sort of orchestration with a third-party integration we have. Examine the logs to find relevant details and, if needed, isolate the laptop from the network. Check the Endpoint Detection and Response (EDR) system for threats, block the suspicious website visited by the user, and verify any other involved websites. Review firewall logs for suspicious outbound connections and check Windows Event logs for potential account compromise.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/iQyfl0q.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/haBqY7R.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<b>.</b>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<b>.</b>
+<b>After conducting a thorough investigation of the findings, document the case and close the ticket.</b>
 <br/>
 
 ## Outcome
