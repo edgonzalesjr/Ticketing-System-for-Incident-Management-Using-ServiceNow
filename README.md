@@ -33,9 +33,11 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/eb1SXXf.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/lsuh5n5.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>We will assess one high alert, review the details, contact the affected user, and remotely access the user's machine to begin analyzing the incident. On the user's device, we will gather all important information, ask the user what occurred, and identify the Indicators of Compromise, such as any malicious parent and child processes running, as well as outbound and inbound network connections.</b>
 <br/>
 
 <p align="center">
