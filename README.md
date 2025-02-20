@@ -59,7 +59,7 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/9Rh0Vxx.png" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/HiUM1Zy.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <img src="https://imgur.com/ahvqPps.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
