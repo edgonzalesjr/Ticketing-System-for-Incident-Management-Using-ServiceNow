@@ -45,9 +45,11 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/TT6bdFf.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>After conducting a thorough investigation of the findings, document the case and close the ticket.</b>
+<img src="https://imgur.com/3ezBMVj.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>On the Explore tab, click Observables, the URL was identified as Malicious by WhoisGuard Registrant.</b>
 <br/>
 
 <p align="center">
