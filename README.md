@@ -27,9 +27,9 @@ To gain practical experience with the ServiceNow ticketing system while managing
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/tgn6w5S.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>When investigating alerts, it's best to sort them by severity. Start with critical alerts first. If there are no critical alerts, check for high alerts next.</b>
 <br/>
 
 <p align="center">
